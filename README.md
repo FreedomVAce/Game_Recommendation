@@ -10,7 +10,7 @@ We're going to use a dataset of games from the kaggle database, that is our syst
 
 This is a game data set containing 345667 games on over 50 platforms including mobiles. All games information are obtained using Python with RAWG API. This data set was last updated on Nov 10th 2019. If you are interested in obtaining more recent games, visit the GitHub page for more information.
 
-Dataset link: https://www.kaggle.com/jummyegg/rawg-game-dataset
+Dataset link: https://www.kaggle.com/jummyegg/rawg-game-dataset <br>
 Dataset Credit: Trung Hoang
 
 ## Tools and Packages that I used for this project:
