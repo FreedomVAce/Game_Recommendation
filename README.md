@@ -1,11 +1,10 @@
 # Kaggle: Basic Recommender Systems
 
+ <img src="img_107176" width="200" height="200">
+ Image Credit: https://www.onlinewebfonts.com/icon/107176
+
 ## Introduction
 We're going to use a dataset of games from the kaggle database, that is our system will recommend games to a user. We're essentially implementing the recommendation system found in RAWG API. Also, game recommendation platform as well as drawing insights about the gaming genres.
- 
- <img src="img_107176" width="500" height="500">
- Image Credit: https://www.onlinewebfonts.com/icon/107176
- 
  
 ## Kaggle Dataset Information
 
