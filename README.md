@@ -4,7 +4,7 @@
 We're going to use a dataset of games from the kaggle database, that is our system will recommend games to a user. We're essentially implementing the recommendation system found in RAWG API. Also, game recommendation platform as well as drawing insights about the gaming genres.
  
  
- ![images](img_107176 =250x250)
+ ![images](img_107176){:height="50%" width="50%"}
  Image Credit: https://www.onlinewebfonts.com/icon/107176
  
  
