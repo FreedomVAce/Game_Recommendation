@@ -5,6 +5,7 @@ We're going to use a dataset of games from the kaggle database, that is our syst
  
  
  ![images](img_107176){:height="20%" width="20%"}
+ <img src="img_107176" width="100" height="100">
  Image Credit: https://www.onlinewebfonts.com/icon/107176
  
  
