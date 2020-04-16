@@ -27,5 +27,5 @@ Dataset Credit: Trung Hoang
 ## Completion Time
 * Around a week 
 
-Feedback is always welcome ~~~
+Feedback is always welcome ~~~ <br>
 LinkedIn: https://www.linkedin.com/in/austin-yu-a6a26419b/
