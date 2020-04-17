@@ -1,7 +1,7 @@
 # Kaggle: Basic Recommender Systems
 
 <p align="center">
- <img src="img_107176" width="200" height="200">
+ <img src="img_107176" width="300" height="200">
 </p> <br>
 Image Credit: https://www.onlinewebfonts.com/icon/107176
 
